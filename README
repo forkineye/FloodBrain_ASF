@@ -1,0 +1,3 @@
+FlooBrain_ASF
+~~~~~~~~~~~~~
+This project is an ASF implementation of the firmware for the FloodBrain Controller.  The project should load and compile in Atmel Studio 6.1.  Details on the FloodBrain controller can be found here: http://forkineye.com/electronics/floodbrain-18-channel-10w-rgb-led-floodlight-system.

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "FloodBrain_ASF", "FloodBrain_ASF\FloodBrain_ASF.cproj", "{6EB6AFF4-69FE-4F31-9016-815D1710A7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB6AFF4-69FE-4F31-9016-815D1710A7FC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6EB6AFF4-69FE-4F31-9016-815D1710A7FC}.Debug|AVR.Build.0 = Debug|AVR
+		{6EB6AFF4-69FE-4F31-9016-815D1710A7FC}.Release|AVR.ActiveCfg = Release|AVR
+		{6EB6AFF4-69FE-4F31-9016-815D1710A7FC}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
